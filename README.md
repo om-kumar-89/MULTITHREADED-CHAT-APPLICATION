@@ -40,3 +40,6 @@ Can be extended with usernames, GUI, etc
 
 Output:
 
+<img width="1699" height="397" alt="Image" src="https://github.com/user-attachments/assets/acc0daf4-d8aa-4c2a-92e6-da77d1522d0c" />
+<img width="1675" height="395" alt="Image" src="https://github.com/user-attachments/assets/30cb82db-af8f-4a35-b72e-200a9bafc728" />
+<img width="1748" height="446" alt="Image" src="https://github.com/user-attachments/assets/94f632bc-4fb0-4cce-8929-3bdd44f34bd1" />
